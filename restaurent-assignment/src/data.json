@@ -1,0 +1,322 @@
+[
+  {
+    "image": "https://media-cdn.tripadvisor.com/media/photo-s/13/98/25/56/pizza-hut.jpg",
+    "name": "Mehfil",
+    "specials": "Pizza Continental Asian Desserts Mughal",
+    "oneprice": 575,
+    "mprice": 56,
+    "time": 29,
+    "payments": {
+      "online": true,
+      "cash": true,
+      "upi": true
+    },
+    "rating": 3.7,
+    "votes": 583,
+    "treviews": 436
+  },
+  {
+    "image": "https://media-cdn.tripadvisor.com/media/photo-s/13/98/25/56/pizza-hut.jpg",
+    "name": "Barbeque Nation",
+    "specials": "Asian Pizza Continental Desserts Mughal",
+    "oneprice": 599,
+    "mprice": 59,
+    "time": 26,
+    "payments": {
+      "online": true,
+      "cash": false,
+      "upi": true
+    },
+    "rating": 4.9,
+    "votes": 522,
+    "treviews": 402
+  },
+  {
+    "image": "https://media-cdn.tripadvisor.com/media/photo-s/13/98/25/56/pizza-hut.jpg",
+    "name": " The Fisherman's Wharf",
+    "specials": "Continental Pizza Asian Desserts Mughal",
+    "oneprice": 552,
+    "mprice": 51,
+    "time": 28,
+    "payments": {
+      "online": false,
+      "cash": false,
+      "upi": true
+    },
+    "rating": 1.8,
+    "votes": 510,
+    "treviews": 598
+  },
+  {
+    "image": "https://media-cdn.tripadvisor.com/media/photo-s/13/98/25/56/pizza-hut.jpg",
+    "name": "Bavarchi",
+    "specials": "Asian Pizza Continental Desserts Mughal",
+    "oneprice": 570,
+    "mprice": 58,
+    "time": 26,
+    "payments": {
+      "online": true,
+      "cash": true,
+      "upi": true
+    },
+    "rating": 1,
+    "votes": 659,
+    "treviews": 507
+  },
+  {
+    "image": "https://media-cdn.tripadvisor.com/media/photo-s/13/98/25/56/pizza-hut.jpg",
+    "name": "Udipi",
+    "specials": "Continental Pizza Asian Desserts Mughal",
+    "oneprice": 566,
+    "mprice": 59,
+    "time": 28,
+    "payments": {
+      "online": true,
+      "cash": true,
+      "upi": false
+    },
+    "rating": 4.6,
+    "votes": 519,
+    "treviews": 491
+  },
+  {
+    "image": "https://media-cdn.tripadvisor.com/media/photo-s/13/98/25/56/pizza-hut.jpg",
+    "name": "Nyc restro",
+    "specials": "Continental Pizza Asian Desserts Mughal",
+    "oneprice": 587,
+    "mprice": 51,
+    "time": 22,
+    "payments": {
+      "online": true,
+      "cash": false,
+      "upi": true
+    },
+    "rating": 1.6,
+    "votes": 500,
+    "treviews": 509
+  },
+  {
+    "image": "https://media-cdn.tripadvisor.com/media/photo-s/13/98/25/56/pizza-hut.jpg",
+    "name": "ChaiBuiscuit",
+    "specials": "Pizza Continental Asian Desserts Mughal",
+    "oneprice": 555,
+    "mprice": 56,
+    "time": 26,
+    "payments": {
+      "online": true,
+      "cash": false,
+      "upi": false
+    },
+    "rating": 3.1,
+    "votes": 660,
+    "treviews": 584
+  },
+  {
+    "image": "https://media-cdn.tripadvisor.com/media/photo-s/13/98/25/56/pizza-hut.jpg",
+    "name": "Charminar",
+    "specials": "Continental Pizza Asian Desserts Mughal",
+    "oneprice": 593,
+    "mprice": 53,
+    "time": 20,
+    "payments": {
+      "online": false,
+      "cash": true,
+      "upi": false
+    },
+    "rating": 2.3,
+    "votes": 559,
+    "treviews": 402
+  },
+  {
+    "image": "https://media-cdn.tripadvisor.com/media/photo-s/13/98/25/56/pizza-hut.jpg",
+    "name": "Abu al raman",
+    "specials": "Asian Pizza Continental Desserts Mughal",
+    "oneprice": 509,
+    "mprice": 50,
+    "time": 25,
+    "payments": {
+      "online": true,
+      "cash": true,
+      "upi": true
+    },
+    "rating": 1.7,
+    "votes": 690,
+    "treviews": 599
+  },
+  {
+    "image": "https://media-cdn.tripadvisor.com/media/photo-s/13/98/25/56/pizza-hut.jpg",
+    "name": "Madina",
+    "specials": "Desserts Pizza Asian Continental Mughal",
+    "oneprice": 589,
+    "mprice": 58,
+    "time": 23,
+    "payments": {
+      "online": false,
+      "cash": false,
+      "upi": false
+    },
+    "rating": 4.8,
+    "votes": 506,
+    "treviews": 490
+  },
+  {
+    "image": "https://media-cdn.tripadvisor.com/media/photo-s/13/98/25/56/pizza-hut.jpg",
+    "name": "Boston restro",
+    "specials": "Pizza Continental Asian Desserts Mughal",
+    "oneprice": 511,
+    "mprice": 52,
+    "time": 28,
+    "payments": {
+      "online": true,
+      "cash": true,
+      "upi": false
+    },
+    "rating": 1.2,
+    "votes": 582,
+    "treviews": 415
+  },
+  {
+    "image": "https://media-cdn.tripadvisor.com/media/photo-s/13/98/25/56/pizza-hut.jpg",
+    "name": "Neeve",
+    "specials": "Continental Pizza Asian Desserts Mughal",
+    "oneprice": 576,
+    "mprice": 51,
+    "time": 24,
+    "payments": {
+      "online": false,
+      "cash": true,
+      "upi": false
+    },
+    "rating": 3,
+    "votes": 552,
+    "treviews": 437
+  },
+  {
+    "image": "https://media-cdn.tripadvisor.com/media/photo-s/13/98/25/56/pizza-hut.jpg",
+    "name": "Come again",
+    "specials": "Continental Pizza Asian Desserts Mughal",
+    "oneprice": 585,
+    "mprice": 54,
+    "time": 23,
+    "payments": {
+      "online": false,
+      "cash": true,
+      "upi": true
+    },
+    "rating": 4.4,
+    "votes": 632,
+    "treviews": 427
+  },
+  {
+    "image": "https://media-cdn.tripadvisor.com/media/photo-s/13/98/25/56/pizza-hut.jpg",
+    "name": "Stories",
+    "specials": "Continental Pizza Asian Desserts Mughal",
+    "oneprice": 541,
+    "mprice": 56,
+    "time": 26,
+    "payments": {
+      "online": true,
+      "cash": true,
+      "upi": true
+    },
+    "rating": 3.7,
+    "votes": 640,
+    "treviews": 566
+  },
+  {
+    "image": "https://media-cdn.tripadvisor.com/media/photo-s/13/98/25/56/pizza-hut.jpg",
+    "name": "Laxmi",
+    "specials": "Asian Pizza Continental Desserts Mughal",
+    "oneprice": 535,
+    "mprice": 51,
+    "time": 27,
+    "payments": {
+      "online": true,
+      "cash": true,
+      "upi": false
+    },
+    "rating": 1.2,
+    "votes": 566,
+    "treviews": 467
+  },
+  {
+    "image": "https://media-cdn.tripadvisor.com/media/photo-s/13/98/25/56/pizza-hut.jpg",
+    "name": "Al darbar",
+    "specials": "Continental Pizza Asian Desserts Mughal",
+    "oneprice": 535,
+    "mprice": 57,
+    "time": 27,
+    "payments": {
+      "online": true,
+      "cash": true,
+      "upi": false
+    },
+    "rating": 3.7,
+    "votes": 610,
+    "treviews": 594
+  },
+  {
+    "image": "https://media-cdn.tripadvisor.com/media/photo-s/13/98/25/56/pizza-hut.jpg",
+    "name": "Snehame",
+    "specials": "Asian Pizza Continental Desserts Mughal",
+    "oneprice": 588,
+    "mprice": 59,
+    "time": 20,
+    "payments": {
+      "online": false,
+      "cash": true,
+      "upi": true
+    },
+    "rating": 1.7,
+    "votes": 578,
+    "treviews": 540
+  },
+  {
+    "image": "https://media-cdn.tripadvisor.com/media/photo-s/13/98/25/56/pizza-hut.jpg",
+    "name": "Flower",
+    "specials": "Pizza Continental Asian Desserts Mughal",
+    "oneprice": 554,
+    "mprice": 51,
+    "time": 24,
+    "payments": {
+      "online": false,
+      "cash": false,
+      "upi": false
+    },
+    "rating": 1.7,
+    "votes": 559,
+    "treviews": 517
+  },
+  {
+    "image": "https://media-cdn.tripadvisor.com/media/photo-s/13/98/25/56/pizza-hut.jpg",
+    "name": "Ashok restro",
+    "specials": "Desserts Pizza Asian Continental Mughal",
+    "oneprice": 593,
+    "mprice": 58,
+    "time": 21,
+    "payments": {
+      "online": true,
+      "cash": false,
+      "upi": false
+    },
+    "rating": 4.8,
+    "votes": 520,
+    "treviews": 471
+  },
+  {
+    "image": "https://media-cdn.tripadvisor.com/media/photo-s/13/98/25/56/pizza-hut.jpg",
+    "name": "Logan Paul",
+    "specials": "Continental Pizza Asian Desserts Mughal",
+    "oneprice": 538,
+    "mprice": 55,
+    "time": 27,
+    "payments": {
+      "online": false,
+      "cash": false,
+      "upi": true
+    },
+    "rating": 1.8,
+    "votes": 601,
+    "treviews": 429
+  }
+]

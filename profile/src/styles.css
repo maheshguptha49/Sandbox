@@ -1,0 +1,9 @@
+.App {
+  font-family: sans-serif;
+  /* text-align: center; */
+  background: rgb(40,34,63);
+}
+.App{
+  padding: 20px 0;
+  margin: 20px auto;
+}

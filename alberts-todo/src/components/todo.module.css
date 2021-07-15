@@ -1,0 +1,49 @@
+
+*{
+  margin: 0;
+  color: #883636;
+}
+.task{
+  color: green;
+  text-decoration: line-through;
+}
+.false{
+  color: red;
+}
+.cont1 input{
+  border-radius: 20px;
+  outline: none;
+  border: solid 1.5px;
+  padding: 3px 10px;
+  box-shadow: 0 1px 6px rgb(88 36 36 / 28%);
+}
+.list{
+  background-color: white;   
+  width: fit-content;
+  min-width: 300px;
+  margin: 10px auto;
+  border-radius: 15px;
+  padding: 0 10px;
+  box-shadow: 0 1px 6px rgb(88 36 36 / 28%);
+}
+.header{
+  box-shadow: 0 1px 6px rgb(88 36 36 / 28%);
+}
+.buttons{
+  border-radius: 20px;
+  padding: 3px 8px;
+  width: 80px;
+  border: solid 1.5px;
+  background-color: white;
+  margin: 5px;
+  box-shadow: 0 1px 6px rgb(88 36 36 / 28%); 
+}
+.showButtons{
+  border-radius: 20px;
+  padding: 3px 8px;
+  width: 230px;
+  background-color: white;
+  margin: 5px;
+  border: solid 1.5px;
+  box-shadow: 0 1px 6px rgb(32 33 36 / 28%); 
+}

@@ -1,0 +1,13 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+*{
+  color:white;
+}
+body{
+  background: black;
+}
+button{
+  color:black;
+}
